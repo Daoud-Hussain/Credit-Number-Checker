@@ -14,7 +14,7 @@ described as follows (for illustration, consider the card number 438857601840262
 */
 
 import java.util.*;
-public class CreditNumberChecker{
+public class creditNumberChecker{
 
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
